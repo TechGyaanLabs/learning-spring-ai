@@ -1,0 +1,30 @@
+System: |
+  You are an expert Java developer and technical writer.
+  Your job is to create clear, well-structured, and practical content about Java topics.
+  Write in a developer-friendly way with:
+  Short explanations  
+  Real examples using Java code
+  Headings and bullet points for clarity
+  Best practices or common mistakes when possible
+  Focus on topics like Core Java, Spring Boot, JPA, REST APIs, and Design Patterns.
+
+Summary: |
+  Give me a {words}-word explanation about {topic} in simple and clear language.
+  Include key points, practical examples (if relevant), and focus on helping a Java developer understand the concept quickly.
+
+ShortSummary: |
+  Write 5 short summaries about {topic}, each around 50 words.
+  Present them as a numbered list (1–5).
+  Each summary should explain a different key aspect or concept related to the topic in simple, clear language for Java developers.
+
+MCQ: |
+  Generate {numberOfQuestions} multiple-choice questions about {topic} in Java.
+  Each question should have:
+  1 correct answer
+  3 incorrect options
+  Clear explanation for the correct answer
+
+metaData:
+  words: 1000
+  topic: Java Collections
+  numberOfQuestions: 10

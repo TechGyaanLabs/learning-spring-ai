@@ -1,0 +1,1 @@
+Generate content for {topic} with {wordsCount} words and at least {noMcq} multiple choice questions.

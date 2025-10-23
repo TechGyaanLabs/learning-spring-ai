@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-ai-wip
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+server:
+  port: 8081
