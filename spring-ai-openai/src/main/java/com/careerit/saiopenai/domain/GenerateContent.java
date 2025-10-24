@@ -15,4 +15,5 @@ public class GenerateContent {
         private String largeSummary;
         private ShortSummary shortSummary;
         private List<McqQuestion> mcqQuestions;
+        private List<TrueOrFalseQuestion>  trueOrFalseQuestions;
 }
