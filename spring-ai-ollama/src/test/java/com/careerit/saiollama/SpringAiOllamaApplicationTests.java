@@ -1,4 +1,4 @@
-package com.careerit.spring_ai_ollama;
+package com.careerit.saiollama;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

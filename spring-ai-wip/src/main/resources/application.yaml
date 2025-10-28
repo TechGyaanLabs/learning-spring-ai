@@ -4,5 +4,11 @@ spring:
   ai:
     openai:
       api-key: ${OPENAI_API_KEY}
+
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
 server:
-  port: 8081
+  port: 8090
+
